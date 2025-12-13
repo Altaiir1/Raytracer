@@ -19,6 +19,8 @@ int main()
             auto g = double(j) / (image_height - 1);
             auto b = 0.0;
 
+            // Converting floating-point color values [0.0-1.0]
+            // to integer values in the range [0,255]
             int ir = int(255.999 * r);
             int ig = int(255.999 * g);
             int ib = int(255.999 * b);
