@@ -1,3 +1,0 @@
-/Users/cargan/Library/CloudStorage/Dropbox/Dev/C++/Projects/Raytracer/out/build/Clang/CMakeFiles/Raytracer.dir
-/Users/cargan/Library/CloudStorage/Dropbox/Dev/C++/Projects/Raytracer/out/build/Clang/CMakeFiles/edit_cache.dir
-/Users/cargan/Library/CloudStorage/Dropbox/Dev/C++/Projects/Raytracer/out/build/Clang/CMakeFiles/rebuild_cache.dir
