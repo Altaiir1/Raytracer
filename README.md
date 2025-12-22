@@ -19,11 +19,11 @@ $ cmake --build build/Debug
 You can run the programs by executing the binaries placed in the build directory:
 
 ```shell
-    $ build\Debug\inOneWeekend > image.ppm
+    $ build/Debug/inOneWeekend > image.ppm
 ```
 
 or, run the optimized version (if you compiled with the release configuration):
 
 ```shell
-    $ build\Release\inOneWeekend > image.ppm
+    $ build/Release/<name> image.ppm
 ```
